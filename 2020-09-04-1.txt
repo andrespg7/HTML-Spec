@@ -1,0 +1,3 @@
+-Introduction to Specification-
+
+A specification is to concrete describe something general for to understand about what talking. Include all details like a functions, resources, costs, etc. Is refer to thing with such precision that not left to imagination and all people who participate in a project can know exactly what to do.

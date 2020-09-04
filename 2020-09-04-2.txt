@@ -1,0 +1,14 @@
+-Fundamental characteristics-
+
+Must include truth information, consistent with the real needs of the user want satisfied.
+Must communicate this information effectively.
+
+-Features of good specification-
+
+Not ambiguous.
+Complete.
+Easy of to verify.
+Consistent.
+Easy of to modify.
+Traceability.
+Easy of to use, operation and maintenance.

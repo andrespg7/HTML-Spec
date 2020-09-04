@@ -1,0 +1,20 @@
+-Structure-
+
+Introduction:
+	Objective.
+	Ambit.
+	Definitions, acronyms.
+	References.
+	Global vision.
+General description:
+	Perspective product.
+	Functions of product.
+	Features of user.
+	General limitations.
+	Supposed and dependences.
+Specific requirements:
+	Funcional requirements.
+	Requirements interface.
+	Requirements of performance.
+	Requierements design.
+	Attributes of quality.
