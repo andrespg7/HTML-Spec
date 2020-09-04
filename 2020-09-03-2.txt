@@ -1,0 +1,3 @@
+-Elements-
+
+They are labels that are responsible of give a basic structure. As usual they have attributes and content but some have been adopted like a standar and fulfill with the function of markup structural(<h2></h2>), markup presentational (<b></b>) or markup hypertextual (<a href="">name link</a>

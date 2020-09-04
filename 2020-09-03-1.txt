@@ -1,0 +1,3 @@
+-Introduction to HTML-
+
+Hypertext Markup Language, refer to markup language used like a standard in development web page. Is the charge of give the structure of the page, giving thus the pattern of how organized the texts, images, links, etc. Is based in the use of labels for differentiate each of the elements in the page and can be more easy the interpret so much for humans like a machines. The browsers must are update for to have a correct interpretation of the new versions of HTML.
